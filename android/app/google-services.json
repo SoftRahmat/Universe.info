@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583872777095",
+    "firebase_url": "https://explore-universe-6915c.firebaseio.com",
+    "project_id": "explore-universe-6915c",
+    "storage_bucket": "explore-universe-6915c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583872777095:android:94e5727e3120f2e6f82122",
+        "android_client_info": {
+          "package_name": "com.rahmatmu.explore_universe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583872777095-imgtui2j4878p8vpa9gmq84q6jphdeie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wYGTOWoEQnTtyrrWXKngh_cX0ZfPsa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583872777095-imgtui2j4878p8vpa9gmq84q6jphdeie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,94 @@
+name: explore_universe
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  animated_text_kit: ^2.2.0
+  firebase_core: ^0.4.5
+  firebase_auth: ^0.16.1
+  cloud_firestore: ^0.13.7
+  audioplayers: ^0.16.1
+  rflutter_alert: ^1.0.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  change_app_package_name: ^0.1.2
+  flutter_launcher_name: ^0.0.1
+  modal_progress_hud: ^0.1.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/logo1.png
+    - images/a.gif
+    - images/b.gif
+    - images/c.gif
+    - images/e.gif
+    - images/e1.gif
+    - images/clogo.gif
+    - images/mainbg.gif
+    - images/astranaut.gif
+    - images/actor.gif
+    - images/bg2.gif
+    - images/F.gif
+    - images/H.gif
+    - images/sun.gif
+    - images/ontheway.gif
+    - images/ship.gif
+    - images/ship2.png
+    - images/earthmain.gif
+    - images/earthbg.gif
+    - images/dheader.gif
+    - images/listbg.gif
+    - images/listbg2.gif
+    - images/moon.gif
+    - images/moondtl.gif
+    - images/MARS.gif
+    - images/marsbg.gif
+    - images/jupiter.gif
+    - images/saturn.gif
+    - images/saturnmain.gif
+    - images/seturn.gif
+    - images/MERCURY.gif
+    - images/mercurybg2.jpg
+    - images/MERCURYBG.gif
+    - images/uranus.gif
+    - images/uranusbg.gif
+    - images/certificate1.jpg
+    - images/certificatebg.gif
+    - images/quiz.jpg
+    - images/quiz.gif
+    - images/quizbg.png
+    - images/universeScale.gif
+    - images/questionbg.gif
+    - assets/note2.wav
+    - assets/note3.wav
+    - assets/note4.wav
+    - assets/note5.wav
+    - assets/note6.wav
+    - assets/note7.wav
+
+  fonts:
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+    - family: Anton
+      fonts:
+        - asset: fonts/Anton-Regular.ttf
+    - family: Open Sans Light Italic
+      fonts:
+        - asset: fonts/OpenSans-LightItalic.ttf
+
+flutter_launcher_name:
+  name: "Universe.info"
